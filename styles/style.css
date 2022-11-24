@@ -1,0 +1,11 @@
+form .is-horizontal label.label {
+  min-width: 320px;
+}
+
+form .is-horizontal small {
+  display: block;
+}
+
+table.table td {
+  font-size: .9em;
+}
